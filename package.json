@@ -1,0 +1,19 @@
+{
+  "name": "typescript-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendata-heilbronn/typescript-workshop.git"
+  },
+  "author": "Patrick Hahn (patrick246), Jonathan Günz (harmoniemand)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opendata-heilbronn/typescript-workshop/issues"
+  },
+  "homepage": "https://github.com/opendata-heilbronn/typescript-workshop#readme"
+}
